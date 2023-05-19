@@ -1,0 +1,114 @@
+!! 代码随想录
+! 顶部搜索栏
+programmercarl.com###app > div.theme-container:first-child > header.navbar:first-child
+! 侧边栏
+programmercarl.com###app > div.theme-container:first-child > aside.page-sidebar:last-child
+
+!! CSDN
+! 文章底部推荐
+blog.csdn.net###mainBox > main.iread_main:nth-child(2) > div.recommend-box
+blog.csdn.net###treeSkill > div.skill-tree-box
+blog.csdn.net###recommendNps
+blog.csdn.net###copyright-box
+luogu.com.cn###app > div.main-container:nth-child(3) > main.wrapped.lfe-body:nth-child(2) > div.full-container > section.side:first-child > div:last-child
+
+!! 知乎
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) >
+
+!! 力扣
+! 分享按钮
+leetcode.cn###question-detail-main-tabs > div.css-1qqaagl-layer1.css-12hreja-TabContent.e16udao5:nth-child(2) > div.description__2b0C > div.css-xfm0cl-Container.eugt34i0:first-child > div.css-1e1vffy-Tools.e1o5n5iy0:last-child > button.css-11hfr6f-Button.e167268t1:nth-child(4)
+! 商店
+leetcode.cn###lc-home > div.layout__3dXm > div.css-1k63xn3-HeaderCn.e1t1fzqp0:first-child > div.css-rorj3y-NavWrapper.ergbin85 > nav.css-exdtvz-NavContainer.ergbin86 > ul.css-1hthjdu-NavbarList.ergbin88:first-child > li.css-1w1s8n-NarbarDropdownItem.ergbin810:last-child > div.css-1xp3vst-NavbarStoreStyle.ergbin813
+
+!! 博客园
+! 文章侧边
+cnblogs.com###sideBar
+! 文章底部
+cnblogs.com###blog_post_info
+! 文章底部
+cnblogs.com###comment_form
+
+!! 微信公众号
+mp.weixin.qq.com###js_base_container > div.rich_media_area_extra:nth-child(3)
+!！ 微信开发者工具
+div.Post-content > div.css-78p1r9:nth-child(2)
+developers.weixin.qq.com###popoverWrapId
+
+!! 虎牙
+! 礼物
+huya.com###player-gift-wrap
+huya.com###J_duyaHeaderRight > div.HeaderDynamic--3HooPjEhfERVcNlLZt1RkY > div.Login--2TRWvaH25E5NUhZJ1I69uE:last-child > div.Panel--8WJ1xUECB7O5tfnF11lg.LoginBd--1CdcbB8Yn5UQkgoU4sCunn.show--2a4gPZPhwSrNvpUfjtIrRK:last-child > div.Panel--197mNbdBBROU_R7DBKL4HV:first-child
+huya.com###wrap-income > iframe
+! 底部视频
+huya.com###J_mainRoom > div.room-footer:last-child
+huya.com###root > div.ssr-wrapper > div.mod-sidebar:last-child > div.sidebar-hide:first-child
+
+!! 微博
+! 侧边栏
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posSticky_2J8TW > div:first-child > div.wbpro-side-main > div:last-child > div.wbpro-side.woo-panel-main.woo-panel-top.woo-panel-right.woo-panel-bottom.woo-panel-left.Card_wrap_2ibWe.Card_bottomGap_2Xjqi
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posSticky_2J8TW > div:first-child > div.wbpro-side-main > div:nth-child(2) > div.wbpro-side.woo-panel-main.woo-panel-top.woo-panel-right.woo-panel-bottom.woo-panel-left.Card_wrap_2ibWe.Card_bottomGap_2Xjqi > div.wbpro-side-card4.wbpro-side-panel.wbpro-side-hover:last-child
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posSticky_2J8TW > div.wbpro-side-copy:last-child
+weibo.com###app > div.woo-box-flex.woo-box-column.Frame_wrap_3g67Q:first-child > div.woo-box-flex.Frame_content_3XrxZ:last-child > div.Frame_side_3G0Bf:first-child > div.Nav_main_32v4H
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posSticky_2J8TW > div:first-child > div.wbpro-side-main > div:first-child > div.wbpro-side.woo-panel-main.woo-panel-top.woo-panel-right.woo-panel-bottom.woo-panel-left.Card_wrap_2ibWe.Card_bottomGap_2Xjqi:first-child > div > div:last-child > div.vc-container.vc-reset.vc-text-gray-900.vc-bg-white.vc-border.vc-border-gray-400.vc-rounded-lg.Selector_calendar_39tAs > div.vc-w-full.vc-relative:first-child > div.vc-grid-container.grid:first-child > div.vc-grid-cell.vc-grid-cell-row-1.vc-grid-cell-row--1.vc-grid-cell-col-1.vc-grid-cell-col--1 > div.vc-pane > div.vc-grid-container.vc-weeks:last-child
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posFixed_1yjgv > div:first-child > div.wbpro-side-main > div:first-child > div.wbpro-side.woo-panel-main.woo-panel-top.woo-panel-right.woo-panel-bottom.woo-panel-left.Card_wrap_2ibWe.Card_bottomGap_2Xjqi:first-child > div > div:last-child > div.vc-container.vc-reset.vc-text-gray-900.vc-bg-white.vc-border.vc-border-gray-400.vc-rounded-lg.Selector_calendar_39tAs > div.vc-w-full.vc-relative:first-child > div.vc-grid-container.grid:first-child > div.vc-grid-cell.vc-grid-cell-row-1.vc-grid-cell-row--1.vc-grid-cell-col-1.vc-grid-cell-col--1 > div.vc-pane > div.vc-grid-container.vc-weeks:last-child
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posFixed_1yjgv > div:first-child > div.wbpro-side-main > div:last-child > div.wbpro-side.woo-panel-main.woo-panel-top.woo-panel-right.woo-panel-bottom.woo-panel-left.Card_wrap_2ibWe.Card_bottomGap_2Xjqi
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posFixed_1yjgv > div:first-child > div.wbpro-side-main > div:nth-child(2) > div.wbpro-side.woo-panel-main.woo-panel-top.woo-panel-right.woo-panel-bottom.woo-panel-left.Card_wrap_2ibWe.Card_bottomGap_2Xjqi > div.wbpro-side-card4.wbpro-side-panel.wbpro-side-hover:last-child
+weibo.com###__sidebar > div.Side_sideBox_2G3FX.Side_posFixed_1yjgv > div.wbpro-side-copy.Side_fixcr_1xZN7:last-child > div.wbpro-side-copy-inner > div.scale
+
+!! 必应
+! 划词
+cn.bing.com###b_context
+! 侧边搜索推荐
+cn.bing.com###qs_searchBox
+! 侧边小冰
+cn.bing.com###ev_min_zo_img
+! 头像、MS rewards
+cn.bing.com###id_h
+
+! 知网
+!! html阅读格式划词
+kns.cnki.net###GLSearch
+
+! 百度
+! 侧边搜索推荐
+baidu.com###wrapper_wrapper > div.new-pmd.selected-search-box:last-child
+!! 百度贴吧
+tieba.baidu.com###selectsearch-icon > img
+!! 百度知道划词
+zhidao.baidu.com###selectsearch-icon
+!! 百度百科
+baike.baidu.com##div.J-knowledge-editor-toolbar:nth-child(84) > div.knowledge-toolbar.show
+
+!! bilibili
+! 播放页下方分享按钮
+bilibili.com###share-btn-outer
+! 专栏下方的专栏推荐
+bilibili.com##.recommend-article-list
+! 播放页右侧的视频推荐
+bilibili.com##div.video-page-card-small > .card-box
+bilibili.com##.video-page-special-card-small
+bilibili.com##.ad-floor-cover
+! 搜索框的热搜
+bilibili.com##.search-panel > .trending
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-search-box:nth-child(2) > div.nav-search > div.suggest-wrap.header-search-suggest:last-child
+! 播放页右侧的直播推荐
+bilibili.com###app > div.video-container-v1:nth-child(2) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.pop-live-small-mode.part-undefined:last-child
+bilibili.com###app > div.video-container-v1:nth-child(4) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.pop-live-small-mode.part-undefined:last-child
+bilibili.com###right-bottom-banner
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:first-child > a.left-entry__title:first-child
+bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
+bilibili.com###app > div.video-container-v1:nth-child(3) > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.pop-live-small-mode.part-undefined:last-child
+! 接下来播放
+bilibili.com###reco_list
+! 播放页下方广告
+bilibili.com###activity_vote > div.inside-wrp
+! 评论区用户的动漫卡片
+bilibili.com##div.harmony-font > div.user-card
+live.bilibili.com###app > section.plat-section-outter-box.container-wrapper:first-child
+live.bilibili.com###Mhd42YhYsrv > div.live-non-revenue-player > ul.sc-dkzDqf.hqgeWu.light-tab:first-child
+! 视频tag
+bilibili.com###v_tag
+! 个人动态右侧资讯
+t.bilibili.com###app > div.bili-dyn-home--member:last-child > aside.right:nth-child(3) > section.sticky:last-child > div.topic-panel
+t.bilibili.com###app > div.bili-dyn-home--member:last-child > main:nth-child(2) > section:nth-child(2) > div.bili-dyn-up-list
