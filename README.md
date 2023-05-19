@@ -1,1 +1,2 @@
-# Adguard-filter
+# Adguard用户过滤器
+整理了一些常用的广告过滤规则
